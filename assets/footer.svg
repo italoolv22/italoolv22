@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="title">
+  <title id="title">Operar, automatizar e evoluir</title>
+  <defs><linearGradient id="line" x1="0" x2="1"><stop stop-color="#22D3EE" stop-opacity="0"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></linearGradient></defs>
+  <rect width="1200" height="120" rx="22" fill="#050C16"/>
+  <path d="M0 22C225 70 357 0 575 35s389 72 625 12" fill="none" stroke="#0EA5E9" stroke-opacity=".18" stroke-width="2"/>
+  <rect x="170" y="42" width="860" height="2" rx="1" fill="url(#line)"/>
+  <text x="600" y="81" text-anchor="middle" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="5">OPERAR  •  AUTOMATIZAR  •  EVOLUIR</text>
+</svg>

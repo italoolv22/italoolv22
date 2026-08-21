@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
+  <title id="title">Quatro pilares profissionais de Ítalo Borges</title>
+  <desc id="desc">Operações 24x7, suporte N1/N2, observabilidade e produtos em produção.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A192B"/><stop offset="1" stop-color="#0E2C46"/></linearGradient>
+    <linearGradient id="cyan" x1="0" x2="1"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#3B82F6"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#020617" flood-opacity=".5"/></filter>
+  </defs>
+  <rect width="1200" height="210" rx="24" fill="#050C16"/>
+  <g font-family="Segoe UI, Arial, sans-serif" filter="url(#shadow)">
+    <g transform="translate(24 24)">
+      <rect width="270" height="162" rx="18" fill="url(#panel)" stroke="#22D3EE" stroke-opacity=".24"/>
+      <circle cx="38" cy="40" r="18" fill="#0891B2" fill-opacity=".22"/><path d="M38 30v11l7 4" fill="none" stroke="#67E8F9" stroke-width="3" stroke-linecap="round"/>
+      <text x="68" y="46" fill="#67E8F9" font-size="12" font-weight="700" letter-spacing="1.4">CONTINUIDADE</text>
+      <text x="24" y="92" fill="#FFFFFF" font-size="25" font-weight="750">Operações 24x7</text>
+      <text x="24" y="122" fill="#94A3B8" font-size="14">Disponibilidade e resposta</text><text x="24" y="144" fill="#94A3B8" font-size="14">em ambientes críticos.</text>
+    </g>
+    <g transform="translate(318 24)">
+      <rect width="270" height="162" rx="18" fill="url(#panel)" stroke="#3B82F6" stroke-opacity=".24"/>
+      <circle cx="38" cy="40" r="18" fill="#2563EB" fill-opacity=".22"/><path d="M29 40h18M38 31v18" stroke="#93C5FD" stroke-width="3" stroke-linecap="round"/>
+      <text x="68" y="46" fill="#93C5FD" font-size="12" font-weight="700" letter-spacing="1.4">RESOLUÇÃO</text>
+      <text x="24" y="92" fill="#FFFFFF" font-size="25" font-weight="750">Suporte N1/N2</text>
+      <text x="24" y="122" fill="#94A3B8" font-size="14">Triagem, diagnóstico, SLA</text><text x="24" y="144" fill="#94A3B8" font-size="14">e comunicação objetiva.</text>
+    </g>
+    <g transform="translate(612 24)">
+      <rect width="270" height="162" rx="18" fill="url(#panel)" stroke="#22D3EE" stroke-opacity=".24"/>
+      <circle cx="38" cy="40" r="18" fill="#0891B2" fill-opacity=".22"/><path d="M26 45c6-13 18-13 24 0M30 40c4-7 12-7 16 0" fill="none" stroke="#67E8F9" stroke-width="2.5" stroke-linecap="round"/><circle cx="38" cy="47" r="2.5" fill="#67E8F9"/>
+      <text x="68" y="46" fill="#67E8F9" font-size="12" font-weight="700" letter-spacing="1.4">VISIBILIDADE</text>
+      <text x="24" y="92" fill="#FFFFFF" font-size="25" font-weight="750">Observabilidade</text>
+      <text x="24" y="122" fill="#94A3B8" font-size="14">Zabbix, ServiceDesk Plus</text><text x="24" y="144" fill="#94A3B8" font-size="14">e evidências técnicas.</text>
+    </g>
+    <g transform="translate(906 24)">
+      <rect width="270" height="162" rx="18" fill="url(#panel)" stroke="#3B82F6" stroke-opacity=".24"/>
+      <circle cx="38" cy="40" r="18" fill="#2563EB" fill-opacity=".22"/><path d="M29 46l9-15 9 15M33 42h10" fill="none" stroke="#93C5FD" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="68" y="46" fill="#93C5FD" font-size="12" font-weight="700" letter-spacing="1.4">ENTREGA</text>
+      <text x="24" y="92" fill="#FFFFFF" font-size="25" font-weight="750">Produtos reais</text>
+      <text x="24" y="122" fill="#94A3B8" font-size="14">Da necessidade à produção,</text><text x="24" y="144" fill="#94A3B8" font-size="14">com evolução contínua.</text>
+    </g>
+  </g>
+  <rect x="24" y="194" width="1152" height="3" rx="2" fill="url(#cyan)" opacity=".8"/>
+</svg>

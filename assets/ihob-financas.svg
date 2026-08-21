@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="350" viewBox="0 0 580 350" role="img" aria-labelledby="title desc">
+  <title id="title">IHOB.Finanças</title>
+  <desc id="desc">Card do produto digital de gestão financeira IHOB.Finanças.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071824"/><stop offset="1" stop-color="#0B3A4A"/></linearGradient>
+    <linearGradient id="cyan" x1="0" x2="1"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#10B981"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#22D3EE" stop-opacity=".22"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="580" height="350" rx="24" fill="url(#bg)"/>
+  <circle cx="510" cy="42" r="150" fill="url(#glow)"/>
+  <rect x="26" y="24" width="208" height="28" rx="14" fill="#0F766E" fill-opacity=".3" stroke="#2DD4BF" stroke-opacity=".45"/>
+  <circle cx="42" cy="38" r="4" fill="#5EEAD4"/>
+  <text x="55" y="43" fill="#99F6E4" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2">PRODUTO DIGITAL • FINTECH</text>
+  <text x="26" y="101" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="800">IHOB.Finanças</text>
+  <text x="26" y="132" fill="#A5F3FC" font-family="Segoe UI, Arial, sans-serif" font-size="15">Visão financeira clara para decisões melhores.</text>
+  <g transform="translate(26 164)" font-family="Segoe UI, Arial, sans-serif" font-size="14">
+    <circle cx="6" cy="3" r="4" fill="#2DD4BF"/><text x="20" y="8" fill="#CBD5E1">Contas, assinaturas e indicadores</text>
+    <circle cx="6" cy="37" r="4" fill="#2DD4BF"/><text x="20" y="42" fill="#CBD5E1">Autenticação e regras de acesso</text>
+    <circle cx="6" cy="71" r="4" fill="#2DD4BF"/><text x="20" y="76" fill="#CBD5E1">Experiência responsiva e intuitiva</text>
+  </g>
+  <g transform="translate(26 267)" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700">
+    <rect width="68" height="25" rx="8" fill="#112D3A"/><text x="34" y="17" text-anchor="middle" fill="#A5F3FC">REACT 19</text>
+    <rect x="76" width="86" height="25" rx="8" fill="#112D3A"/><text x="119" y="17" text-anchor="middle" fill="#A5F3FC">TYPESCRIPT</text>
+    <rect x="170" width="72" height="25" rx="8" fill="#112D3A"/><text x="206" y="17" text-anchor="middle" fill="#A5F3FC">FIREBASE</text>
+    <rect x="250" width="50" height="25" rx="8" fill="#112D3A"/><text x="275" y="17" text-anchor="middle" fill="#A5F3FC">VITE</text>
+    <rect x="308" width="70" height="25" rx="8" fill="#112D3A"/><text x="343" y="17" text-anchor="middle" fill="#A5F3FC">ZUSTAND</text>
+  </g>
+  <path d="M391 194h31l15-34 22 68 22-45 19 11h42" fill="none" stroke="url(#cyan)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="542" cy="194" r="6" fill="#5EEAD4"/>
+  <rect x="26" y="312" width="528" height="1" fill="#67E8F9" opacity=".2"/>
+  <text x="26" y="335" fill="#67E8F9" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="650">ihob-financas.vercel.app</text>
+  <text x="548" y="335" text-anchor="end" fill="#67E8F9" font-family="Segoe UI Symbol, Segoe UI, Arial" font-size="17">↗</text>
+</svg>
