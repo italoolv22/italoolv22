@@ -123,23 +123,9 @@ Também desenvolvo soluções digitais para automatizar processos e transformar 
 - **Python Essentials 1** — Cisco
 - Cursos em Excel avançado, Python, HTML/CSS e segurança de redes
 
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=italoolv22&show_icons=true&hide_border=true&bg_color=00000000&title_color=0B5ED7&icon_color=00B4D8&text_color=6B7280&locale=pt-br)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=italoolv22&layout=compact&hide_border=true&bg_color=00000000&title_color=0B5ED7&text_color=6B7280&locale=pt-br)
-
-</div>
-
 ---
 
 <div align="center">
-
-### Vamos transformar desafios em soluções? 🚀
-
-Estou aberto a oportunidades em **Suporte Técnico, Operações de TI, Service Desk, Infraestrutura e Desenvolvimento de Produtos Digitais**.
 
 ![Rodapé](https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:0B5ED7,100:071A2B&height=120&section=footer)
 
