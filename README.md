@@ -1,132 +1,105 @@
 <div align="center">
 
-![Cabeçalho](https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,50:0B5ED7,100:00B4D8&height=210&section=header&text=%C3%8Dtalo%20Borges&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Opera%C3%A7%C3%B5es%20de%20TI%20%E2%80%A2%20Suporte%20N1%2FN2%20%E2%80%A2%20Produtos%20Digitais&descAlignY=58&descSize=18)
+<img src="./assets/header.svg" width="100%" alt="Ítalo Borges — Operações de TI, Suporte e Produtos Digitais" />
 
-### Tecnologia que resolve problemas reais e melhora operações
+<br />
 
-Profissional de **Gestão da Tecnologia da Informação**, com experiência em ambientes críticos 24x7, suporte técnico, monitoramento, infraestrutura e desenvolvimento de produtos digitais.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ítalo_Borges-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italoolvborges)
-[![E-mail](https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:italoolv2204@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Projeto-IHOB.Finan%C3%A7as-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](https://ihob-financas.vercel.app)
+<a href="https://www.linkedin.com/in/italoolvborges"><img src="https://img.shields.io/badge/LinkedIn-Ítalo_Borges-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:italoolv2204@gmail.com"><img src="https://img.shields.io/badge/E--mail-Fale_comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<a href="https://ihob-financas.vercel.app"><img src="https://img.shields.io/badge/Produto-IHOB.Finanças-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="IHOB.Finanças" /></a>
 
 </div>
 
----
+## Tecnologia com contexto operacional
 
-## 👨‍💻 Sobre mim
+Atuo como **Técnico de Operações de TI na Inframerica, no Aeroporto Internacional de Brasília**, sustentando um ambiente 24x7 em que disponibilidade, resposta rápida e comunicação clara fazem parte da rotina.
 
-Atuo como **Técnico de Operações de TI na Inframerica, no Aeroporto Internacional de Brasília**, em um ambiente de alta disponibilidade e criticidade. No dia a dia, realizo suporte N1/N2, atendimento a usuários, monitoramento de serviços e infraestrutura, gestão de incidentes, documentação e acompanhamento de demandas.
+Minha experiência combina **suporte N1/N2, monitoramento, infraestrutura e gestão de incidentes** com a capacidade de projetar e entregar soluções digitais completas. Entendo o problema na operação, organizo a regra de negócio e transformo a necessidade em uma ferramenta utilizável.
 
-Também desenvolvo soluções digitais para automatizar processos e transformar necessidades reais em produtos funcionais. Gosto de unir visão operacional, experiência do usuário e tecnologia para entregar resultados claros e sustentáveis.
+<br />
 
-```text
-📍 Brasília, Distrito Federal
-🎓 Tecnólogo em Gestão da Tecnologia da Informação
-🛠️ Suporte, monitoramento, infraestrutura e automação
-🚀 Sistemas completos utilizados em operações reais
-```
+<img src="./assets/pillars.svg" width="100%" alt="Operações 24x7, suporte N1/N2, observabilidade e produtos reais" />
 
-## 🧰 Tecnologias e ferramentas
+## Produtos que saíram do papel
 
-### Suporte e infraestrutura
-
-![ServiceDesk Plus](https://img.shields.io/badge/ServiceDesk_Plus-1F2937?style=flat-square&logo=manageengine&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Redes](https://img.shields.io/badge/Redes-005571?style=flat-square&logo=cisco&logoColor=white)
-![SFTP](https://img.shields.io/badge/SFTP-4A154B?style=flat-square&logo=files&logoColor=white)
-![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white)
-
-### Desenvolvimento e dados
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel_e_VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-## 🌟 Projetos em destaque
+<p align="center">
+  <a href="https://ihob-financas.vercel.app"><img src="./assets/ihob-financas.svg" width="49%" alt="IHOB.Finanças" /></a>
+  <a href="https://kainabarber.vercel.app"><img src="./assets/kaina-barber.svg" width="49%" alt="Kaina Barber" /></a>
+</p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>💰 IHOB.Finanças</h3>
-<p>Plataforma SaaS de gestão financeira para centralização de contas, assinaturas, indicadores e regras de acesso.</p>
-<p><strong>Destaques</strong></p>
-<ul>
-<li>Dashboards e visão financeira</li>
-<li>Gestão de contas e assinaturas</li>
-<li>Autenticação e regras de acesso</li>
-<li>Interface responsiva</li>
-<li>Evolução orientada a necessidades reais</li>
-</ul>
-<p><strong>Stack:</strong> Next.js, React, TypeScript, Prisma e PostgreSQL.</p>
-<a href="https://ihob-financas.vercel.app"><img src="https://img.shields.io/badge/Acessar_demonstração-0B5ED7?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar demonstração"></a>
+<h3>IHOB.Finanças</h3>
+<p>Plataforma de gestão financeira criada para oferecer uma visão centralizada de contas, assinaturas e indicadores. O produto reúne interface responsiva, persistência de dados, autenticação e regras de acesso.</p>
+<p><strong>Construído com:</strong> React 19, TypeScript, Vite, Firebase, Zustand, Dexie e Framer Motion.</p>
+<p><a href="https://ihob-financas.vercel.app"><strong>Abrir demonstração →</strong></a></p>
 </td>
 <td width="50%" valign="top">
-<h3>✂️ Gestão de Barbearias</h3>
-<p>WebApp/PWA full stack <strong>finalizado e em produção</strong>, utilizado em operações reais por CEOs e proprietários de barbearias.</p>
-<p><strong>Destaques</strong></p>
-<ul>
-<li>Atendimentos, caixa e despesas</li>
-<li>Gestão de equipe e metas</li>
-<li>Folha de pagamento</li>
-<li>Dashboards e relatórios</li>
-<li>Experiência otimizada para celular</li>
-</ul>
-<p><strong>Stack:</strong> Next.js, React, TypeScript, Tailwind CSS, Prisma, PostgreSQL, Zod, JWT, Recharts e Vitest.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>📊 Controle de Ordens de Serviço</h3>
-<p>Solução em Excel/VBA criada para organizar Ordens de Serviço preventivas e corretivas, acompanhar status e reduzir consultas manuais e retrabalho.</p>
-<a href="https://github.com/italoolv22/PlanilhasDeControleOS"><img src="https://img.shields.io/badge/Ver_repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório"></a>
-</td>
-<td width="50%" valign="top">
-<h3>🧭 Foco profissional</h3>
-<ul>
-<li>Suporte técnico N1/N2</li>
-<li>Operações de TI 24x7</li>
-<li>Service Desk e gestão de incidentes</li>
-<li>Monitoramento e observabilidade</li>
-<li>Automação e melhoria contínua</li>
-<li>Desenvolvimento de produtos digitais</li>
-</ul>
+<h3>Kaina Barber</h3>
+<p>Sistema de gerenciamento de barbearias finalizado e utilizado em operações reais por gestores do segmento. Centraliza atendimentos, caixa, despesas, equipe, folha, metas, comissões e relatórios.</p>
+<p><strong>Construído com:</strong> Next.js, TypeScript, Prisma, Tailwind CSS, Zod, Recharts, Vitest e Vercel.</p>
+<p><a href="https://kainabarber.vercel.app"><strong>Abrir demonstração →</strong></a></p>
 </td>
 </tr>
 </table>
 
-## 💼 Competências profissionais
+## Onde entrego valor
 
-| Área | Experiência |
-|---|---|
-| **Suporte** | Triagem, diagnóstico, atendimento remoto, registro de evidências e escalonamento |
-| **Service Desk** | ServiceDesk Plus, filas, incidentes, solicitações e acompanhamento de SLAs |
-| **Monitoramento** | Zabbix, validação de serviços, aplicações, servidores e alertas |
-| **Infraestrutura** | Active Directory, redes, Wi-Fi/VPN, telefonia IP, FileZilla e SFTP |
-| **Processos** | Documentação técnica, priorização, passagem de turno e melhoria contínua |
-| **Automação** | Excel avançado, VBA, indicadores, relatórios e redução de tarefas manuais |
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3>🛰️ Operações & suporte</h3>
+<p>Triagem, diagnóstico, evidências, escalonamento, acompanhamento de SLA, passagem de turno e atendimento remoto.</p>
+</td>
+<td width="33%" valign="top">
+<h3>🧭 Infraestrutura</h3>
+<p>Zabbix, ServiceDesk Plus, Active Directory, Windows, redes, Wi-Fi/VPN, telefonia IP, FileZilla e SFTP.</p>
+</td>
+<td width="33%" valign="top">
+<h3>⚙️ Produto & automação</h3>
+<p>Mapeamento de processos, regras de negócio, dashboards, relatórios, Excel/VBA e desenvolvimento full stack.</p>
+</td>
+</tr>
+</table>
 
-## 🎓 Formação e certificações
-
-- **Tecnólogo em Gestão da Tecnologia da Informação** — Faculdade Senac-DF
-- **Scrum Foundation** — CertiProf
-- **Networking Basics** — Cisco
-- **Endpoint Security** — Cisco
-- **Python Essentials 1** — Cisco
-- Cursos em Excel avançado, Python, HTML/CSS e segurança de redes
-
----
+## Stack usada para resolver
 
 <div align="center">
 
-![Rodapé](https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:0B5ED7,100:071A2B&height=120&section=footer)
+### Desenvolvimento
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,nodejs,prisma,postgres,firebase,git,github&perline=12" alt="TypeScript, JavaScript, React, Next.js, Vite, Tailwind, Node.js, Prisma, PostgreSQL, Firebase, Git e GitHub" />
+
+### Operação, suporte e dados
+
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
+![ServiceDesk Plus](https://img.shields.io/badge/ServiceDesk_Plus-1F2937?style=flat-square)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Redes](https://img.shields.io/badge/Redes-005571?style=flat-square&logo=cisco&logoColor=white)
+![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white)
+![SFTP](https://img.shields.io/badge/SFTP-334155?style=flat-square)
+![Excel e VBA](https://img.shields.io/badge/Excel_e_VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 </div>
+
+## Automação aplicada à rotina
+
+### Controle de Ordens de Serviço
+
+Solução em **Excel e VBA** desenvolvida para organizar Ordens de Serviço preventivas e corretivas, facilitar o acompanhamento de status e reduzir consultas manuais e retrabalho.
+
+[![Conhecer o projeto](https://img.shields.io/badge/Conhecer_o_projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/italoolv22/PlanilhasDeControleOS)
+
+## Formação e certificações
+
+| Formação | Certificações e estudos |
+|---|---|
+| **Tecnólogo em Gestão da Tecnologia da Informação** — Faculdade Senac-DF | Scrum Foundation — CertiProf |
+| Experiência prática em operações, suporte e produtos digitais | Networking Basics — Cisco |
+| Desenvolvimento contínuo em tecnologia e processos | Endpoint Security e Python Essentials 1 — Cisco |
+
+<br />
+
+<img src="./assets/footer.svg" width="100%" alt="Operar, automatizar e evoluir" />
