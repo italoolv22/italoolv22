@@ -24,7 +24,7 @@ Minha experiência combina **suporte N1/N2, monitoramento, infraestrutura e gest
 
 <p align="center">
   <a href="https://ihob-financas.vercel.app"><img src="./assets/ihob-financas.svg" width="49%" alt="IHOB.Finanças" /></a>
-  <a href="https://kainabarber.vercel.app"><img src="./assets/kaina-barber.svg" width="49%" alt="Kaina Barber" /></a>
+  <img src="./assets/kaina-barber.svg" width="49%" alt="Kaina Barber — projeto para cliente com acesso restrito" />
 </p>
 
 <table>
@@ -39,7 +39,7 @@ Minha experiência combina **suporte N1/N2, monitoramento, infraestrutura e gest
 <h3>Kaina Barber</h3>
 <p>Sistema de gerenciamento de barbearias finalizado e utilizado em operações reais por gestores do segmento. Centraliza atendimentos, caixa, despesas, equipe, folha, metas, comissões e relatórios.</p>
 <p><strong>Construído com:</strong> Next.js, TypeScript, Prisma, Tailwind CSS, Zod, Recharts, Vitest e Vercel.</p>
-<p><a href="https://kainabarber.vercel.app"><strong>Abrir demonstração →</strong></a></p>
+<p><em>Projeto desenvolvido para cliente. Demonstração e código-fonte com acesso restrito.</em></p>
 </td>
 </tr>
 </table>
