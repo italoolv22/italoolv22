@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="580" height="350" viewBox="0 0 580 350" role="img" aria-labelledby="title desc">
-  <title id="title">Kaina Barber</title>
-  <desc id="desc">Card do sistema de gerenciamento de barbearias Kaina Barber.</desc>
+  <title id="title">IHOB.Barber</title>
+  <desc id="desc">Card da demonstração online do sistema de gerenciamento de barbearias IHOB.Barber.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D121C"/><stop offset="1" stop-color="#182B46"/></linearGradient>
     <linearGradient id="blue" x1="0" x2="1"><stop stop-color="#60A5FA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
@@ -11,9 +11,9 @@
   <rect x="26" y="24" width="202" height="28" rx="14" fill="#1D4ED8" fill-opacity=".27" stroke="#60A5FA" stroke-opacity=".45"/>
   <circle cx="42" cy="38" r="4" fill="#93C5FD"/>
   <text x="55" y="43" fill="#BFDBFE" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.1">SAAS EM PRODUÇÃO • PWA</text>
-  <rect x="420" y="24" width="134" height="28" rx="14" fill="#064E3B" stroke="#34D399" stroke-opacity=".45"/>
-  <text x="487" y="43" text-anchor="middle" fill="#6EE7B7" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="800" letter-spacing="1">USO REAL</text>
-  <text x="26" y="101" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="800">Kaina Barber</text>
+  <rect x="410" y="24" width="144" height="28" rx="14" fill="#064E3B" stroke="#34D399" stroke-opacity=".45"/>
+  <text x="482" y="43" text-anchor="middle" fill="#6EE7B7" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="800" letter-spacing="1">DEMO ONLINE</text>
+  <text x="26" y="101" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="800">IHOB.Barber</text>
   <text x="26" y="132" fill="#BFDBFE" font-family="Segoe UI, Arial, sans-serif" font-size="15">A operação da barbearia em um só lugar.</text>
   <g transform="translate(26 164)" font-family="Segoe UI, Arial, sans-serif" font-size="14">
     <circle cx="6" cy="3" r="4" fill="#60A5FA"/><text x="20" y="8" fill="#CBD5E1">Atendimentos, caixa e despesas</text>
@@ -32,5 +32,5 @@
   </g>
   <rect x="26" y="312" width="528" height="1" fill="#93C5FD" opacity=".2"/>
   <circle cx="34" cy="331" r="4" fill="#34D399"/>
-  <text x="46" y="335" fill="#93C5FD" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1">PROJETO PARA CLIENTE • ACESSO RESTRITO</text>
+  <text x="46" y="335" fill="#93C5FD" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1">DADOS FICTÍCIOS • SESSÃO PRIVADA • PIN 000000</text>
 </svg>

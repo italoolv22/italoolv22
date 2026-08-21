@@ -7,6 +7,7 @@
 <a href="https://www.linkedin.com/in/italoolvborges"><img src="https://img.shields.io/badge/LinkedIn-Ítalo_Borges-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:italoolv2204@gmail.com"><img src="https://img.shields.io/badge/E--mail-Fale_comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 <a href="https://ihob-financas.vercel.app"><img src="https://img.shields.io/badge/Produto-IHOB.Finanças-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="IHOB.Finanças" /></a>
+<a href="https://ihob-barber.vercel.app"><img src="https://img.shields.io/badge/Demo-IHOB.Barber-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="IHOB.Barber" /></a>
 
 </div>
 
@@ -24,7 +25,7 @@ Minha experiência combina **suporte N1/N2, monitoramento, infraestrutura e gest
 
 <p align="center">
   <a href="https://ihob-financas.vercel.app"><img src="./assets/ihob-financas.svg" width="49%" alt="IHOB.Finanças" /></a>
-  <img src="./assets/kaina-barber.svg" width="49%" alt="Kaina Barber — projeto para cliente com acesso restrito" />
+  <a href="https://ihob-barber.vercel.app"><img src="./assets/ihob-barber.svg" width="49%" alt="IHOB.Barber — demonstração online do sistema de gestão para barbearias" /></a>
 </p>
 
 <table>
@@ -36,10 +37,11 @@ Minha experiência combina **suporte N1/N2, monitoramento, infraestrutura e gest
 <p><a href="https://ihob-financas.vercel.app"><strong>Abrir demonstração →</strong></a></p>
 </td>
 <td width="50%" valign="top">
-<h3>Kaina Barber</h3>
-<p>Sistema de gerenciamento de barbearias finalizado e utilizado em operações reais por gestores do segmento. Centraliza atendimentos, caixa, despesas, equipe, folha, metas, comissões e relatórios.</p>
+<h3>IHOB.Barber</h3>
+<p>Demonstração independente de um sistema de gerenciamento de barbearias finalizado e validado em operações reais. Centraliza atendimentos, caixa, despesas, equipe, folha, metas, comissões e relatórios.</p>
 <p><strong>Construído com:</strong> Next.js, TypeScript, Prisma, Tailwind CSS, Zod, Recharts, Vitest e Vercel.</p>
-<p><em>Projeto desenvolvido para cliente. Demonstração e código-fonte com acesso restrito.</em></p>
+<p><strong>Experiência segura:</strong> dados 100% fictícios, edição liberada e alterações privadas descartadas ao sair.</p>
+<p><a href="https://ihob-barber.vercel.app"><strong>Abrir demonstração →</strong></a> · PIN: <code>000000</code></p>
 </td>
 </tr>
 </table>
